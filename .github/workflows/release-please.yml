@@ -19,13 +19,3 @@ jobs:
           token: ${{ secrets.MY_RELEASE_PLEASE_TOKEN }}
           release-type: node
           target-branch: production
-          
-      - name: Auto-merge release PR
-        if: ${{ steps.release.outputs.prs_created == 'true' }}
-        env:
-          GH_TOKEN: ${{ secrets.MY_RELEASE_PLEASE_TOKEN }}
-        run: |
-          gh pr merge "${{ fromJson(steps.release.outputs.pr).number }}" \
-            --repo "${{ github.repository }}" \
-            --squash \
-            --delete-branch
