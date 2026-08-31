@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/jorkab/test-github-action/compare/v1.0.0...v1.1.0) (2026-08-31)
+
+
+### Features
+
+* cleanup ([#12](https://github.com/jorkab/test-github-action/issues/12)) ([a790b44](https://github.com/jorkab/test-github-action/commit/a790b44f901139c9bcba789b651b86e0a981d43b))
+
 ## 1.0.0 (2026-08-31)
 
 
