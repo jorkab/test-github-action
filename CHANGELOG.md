@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.1](https://github.com/jorkab/test-github-action/compare/v1.1.0...v1.1.1) (2026-08-31)
+
+
+### Bug Fixes
+
+* update release please ([#15](https://github.com/jorkab/test-github-action/issues/15)) ([dde2534](https://github.com/jorkab/test-github-action/commit/dde2534145a142c8aa918d7362afa27f4b15fd45))
+* update release please ([#15](https://github.com/jorkab/test-github-action/issues/15)) ([932d337](https://github.com/jorkab/test-github-action/commit/932d337e76b25a8c9bf610b92f69dd9d1b211897))
+
 ## [1.1.0](https://github.com/jorkab/test-github-action/compare/v1.0.0...v1.1.0) (2026-08-31)
 
 
