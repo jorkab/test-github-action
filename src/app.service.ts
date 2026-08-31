@@ -5,5 +5,6 @@ export class AppService {
   getHello(): string {
     return 'Hello World!';
     // feat: add new feature
+    // fix: fix a bug
   }
 }
