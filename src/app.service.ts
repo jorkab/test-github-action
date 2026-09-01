@@ -8,5 +8,6 @@ export class AppService {
     // fix: fix a bug
 
     // feat: add new feature
+    // feat!: add breaking change
   }
 }
