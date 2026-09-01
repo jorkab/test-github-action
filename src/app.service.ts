@@ -9,5 +9,6 @@ export class AppService {
 
     // feat: add new feature
     // feat!: add breaking change
+    // fix: fix a bug
   }
 }
